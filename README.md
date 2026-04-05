@@ -1,10 +1,14 @@
 Health Care Analysis
+
+
 Welcome to the Healthcare Analysis project repository! This project aims to analyze a healthcare dataset using Power BI to uncover insights and trends in patient demographics and healthcare costs.
 
 Overview
+
 In this project I analyze the healthcare dataset and try to get enough insights based on the data to make better decisions for the patients healthcare. Before that I need to clean, transform, analyze the data, so thatt it could be more easier to draw enough visualizations.
 
 Overview of the dataset
+
 The dataset used in this analysis includes the following columns:
 
 Name: Name of the Patients
@@ -23,18 +27,25 @@ Medication: Type of the diagnosis
 Test Results: Type of the test results (Abnormal, Normal, Inconclusive)
 Days Spent: Number of days that the patients spent in the hospital
 medical condition: Medical condition of the patients
+
 Analysis Steps
+
 Data Understanding: Exploring the dataset to understand its structure and contents
 Data Preparation: Clean and preprocess the data to ensure it's ready for analysis
 Visualization: Create visualizations that highlight key findings in the data
 Report taking: Interpret the results of analysis and derive actionable insights that can inform decision-making in the healthcare domain
+
 Report of the Analysis
+
 Disease Analysis Report:
+
 Cancer expenses significantly surpass those of other diseases, with arthritis incurring the least expenditure.
 A total of 1708 patients suffer from asthma, followed by cancer.
 Individuals with AB- blood type are more prone to suffering; notably, those with AB- blood type are predisposed to obesity.
 The majority of patients' test results indicate abnormalities
+
 Patient Analysis Report:
+
 Approximately 50 percent of patients are evenly distributed between males and females.
 Aetna is the preferred insurance provider for the majority of patients.
 Nearly 33 percent of patients require urgent admission.
